@@ -14,7 +14,15 @@ flutter:
   uses-material-design: true
   assets:
     - assets/logo.png
-    - assets/alucard.jpg
+    - assets/LOGO-MIGIVA.png
+    - assets/cancel_red.png
+    - assets/left_arrow_green.png
+    - assets/left_arrow_yelow.png
+    - assets/right_arrow_green.png
+    - assets/right_arrow_yelow.png
+    - assets/double_arrow_black.png
+    - assets/turnstile.png
+
   fonts:
       - family: Nunito
         fonts:
